@@ -13,7 +13,7 @@ I'm also interested in hiking, football, table tenis, or just chill with some co
 
 ### 💻 What i am currently/done working on
 - [CJIP](https://cjip.jatengprov.go.id)  🚀
-- [CJIP](https://wdnsds.com)
+- [WDNSDS](https://wdnsds.com)
 - Online Marketplace Platform  🚀 *coming soon*
 
 ### 📫 Where to find me
