@@ -1,4 +1,4 @@
-## [![wdnsds's header](https://drive.google.com/file/d/1MhLPUZys41V88A1Nyt3ILiYqZr9eyC9I/view?usp=sharing)](https://wdnsds.com)
+## [![wdnsds's header](https://github.com/wdnsds/wdnsds/blob/main/images/me%20long.png)](https://wdnsds.com)
 
 <p align='center'>
 <a href="https://twitter.com/MajidRifqi"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
