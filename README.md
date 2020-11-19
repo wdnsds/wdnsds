@@ -1,16 +1,26 @@
-### Hi there 👋
+## [![wdnsds's header](https://drive.google.com/file/d/1MhLPUZys41V88A1Nyt3ILiYqZr9eyC9I/view?usp=sharing)](https://wdnsds.com)
 
-<!--
-**wdnsds/wdnsds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://twitter.com/MajidRifqi"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rifqi.majid/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rifqi-majid-a73a50122/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Hello there! My name is Majid. 👋🤓</h2>
+<p align="center">I'm a Web Developer from Indonesia.
+I'm passionate about Machine Learning, Automation, and obviously TALL as my main web development.
+I'm also interested in hiking, football, table tenis, or just chill with some coffe and friends 😏.😏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What i am currently/done working on
+- [CJIP](https://cjip.jatengprov.go.id)  🚀
+- [CJIP](https://wdnsds.com)
+- Online Marketplace Platform  🚀 *coming soon*
+
+### 📫 Where to find me
+- [Facebook](https://facebook.com/stephenajulu) 😏
+- [Twitter](https://twitter.com/MajidRifqi) 🐤
+- [Instagram](https://www.instagram.com/rifqi.majid/) 😎
+- [LinkedIn](https://www.linkedin.com/in/rifqi-majid-a73a50122/) 👨💼
+- [Website](https://wdnsds.com) 😏🔗
+
+![wdnsds's Github Stats](https://github-readme-stats.vercel.app/api?username=wdnsds&show_icons=true&theme=radical)
